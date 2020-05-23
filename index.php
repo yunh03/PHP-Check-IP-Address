@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+    <meta name="google-site-verification" content="1Rq_2nU4g2l5GratgYUiKEUPVKLYpZKgsinkOkdGg_8" />
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://use.typekit.net/oxn3idk.css">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -16,9 +17,11 @@
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         <!-- ip.yunsol.kr -->
         <ins class="adsbygoogle"
-            style="display:inline-block;width:728px;height:90px"
+            style="display:block"
             data-ad-client="ca-pub-8715486794117322"
-            data-ad-slot="4174384543"></ins>
+            data-ad-slot="4174384543"
+            data-ad-format="auto"
+            data-full-width-responsive="true"></ins>
         <script>
             (adsbygoogle = window.adsbygoogle || []).push({});
         </script>
